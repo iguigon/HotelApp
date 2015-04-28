@@ -43,7 +43,6 @@ public class HotelModel {
 		new Hotel("Hotel Hilton","Trafalgar Square","London",4),
 		new Hotel("Hotel Ibis","The City","London",3),
 		new Hotel("Hotel Cigogne","Grand Place", "",2),
-		new Hotel("Hotel California", "LA", "",5)
 	};
 	
 	/**
